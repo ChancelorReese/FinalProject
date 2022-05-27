@@ -1,0 +1,30 @@
+body {
+    max-width: 960px;
+    max-width: 100%;
+    text-align: center;
+}
+
+
+#Click {
+    margin: 50px auto;
+    height: 300px;
+    width: 1800px;
+    font-size: 100px;
+    background-color: rgb(64, 1, 72);
+    color: white;
+}
+
+#output {
+    margin: 100px auto;
+    font-size: 90px;
+    text-align: center;
+    height: 300px;
+    background-color: rgb(64, 1, 72);
+    color: white;
+}
+
+
+#container {
+    background-color: rgb(2, 0, 3);
+}
+
